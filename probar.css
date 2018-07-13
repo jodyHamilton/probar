@@ -1,7 +1,7 @@
 #probar {
-  background: #440027;
-  width: 400px;
-  height: 50px;
+  background: url("https://probo.ci/images/super-probo.png") no-repeat contain;
+  width: 200px;
+  height: 200px;
   position: fixed;
   bottom: 0;
   right: 0;
