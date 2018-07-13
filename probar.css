@@ -1,4 +1,4 @@
-#probar {
+#probar-closed {
   background: url("https://probo.ci/images/super-probo.png") no-repeat;
   background-size: contain;
   width: 150px;
@@ -6,4 +6,14 @@
   position: fixed;
   bottom: 0;
   right: 10px;
+}
+
+#probar-open {
+  background: #440027;
+  border-radius: 20px;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 400px;
+  height: 400px;
 }
