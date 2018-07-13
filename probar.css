@@ -17,3 +17,12 @@
   width: 400px;
   height: 400px;
 }
+
+#probar-close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 25px;
+  height: 25px;
+  background: white;
+}
