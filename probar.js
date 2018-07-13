@@ -12,7 +12,6 @@ probar.addEventListener('click', function(e) {
   if (this.getAttribute("id") == "probar-closed") {
     this.setAttribute("id", "probar-open");
     this.appendChild(probarClose);
-    console.log('click');
   }
 });
 document.getElementsByTagName('body')[0].appendChild(probar);
