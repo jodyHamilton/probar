@@ -1,9 +1,9 @@
 #probar {
-  background: url("https://probo.ci/images/super-probo.png") no-repeat contain;
+  background: url("https://probo.ci/images/super-probo.png") no-repeat;
+  background-size: contain;
   width: 200px;
   height: 200px;
   position: fixed;
   bottom: 0;
   right: 0;
-  border-radius: 10px;
 }
